@@ -1,6 +1,6 @@
-=========================
+
 Amazon Scraper Documentation
-=========================
+
 
 Overview:
 ---------
